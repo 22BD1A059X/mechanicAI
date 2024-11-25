@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703723116557",
+    "project_id": "mechai-51684",
+    "storage_bucket": "mechai-51684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703723116557:android:66d6b6e7224e6f18fddd44",
+        "android_client_info": {
+          "package_name": "com.hellowo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALX9--Z5bypXGJxvzwGfgylAwOp6c2kXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
